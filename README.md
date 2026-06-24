@@ -42,4 +42,4 @@ Or just read the markdown. Every node opens with its one-line headline; the body
 
 ## Where the model lives
 
-The contracts and the model that produced this vault live in the **doppl-prime** repo (`my-docs/the-hut/` and `specs/`). aGarden is an instance of that model — but it's meant to be legible without it.
+The contracts and the model that produced this vault live in the **doppl-prime** repo (`my-docs/the-hut/` and `contracts/`). aGarden is an instance of that model — but it's meant to be legible without it.
