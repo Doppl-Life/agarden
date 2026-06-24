@@ -40,6 +40,27 @@ Or just read the markdown. Every node opens with its one-line headline; the body
 - **Measurements** (`0…1`) — instrument readings. Novelty = how far the idea reaches past what's already in the record; grounding = how well it lands on something true and testable.
 - **Ratings** (`−5…+5`) — judgments of worth. The judge fills five axes (Novelty, Grounding, Falsifiability, Cost-efficiency, Relevance) and boils them to `scores.judge`. A human gives one gut-read slider (`scores.human`). Negative means value-subtracting, not merely ineffective.
 
+## Vault config in git
+
+Only *shared meaning* is versioned; *personal view-state* is not. Connections (wikilinks), node content, the ledgers, and the graph **color scheme** are signal and get committed. Your zoom level, pane layout, and open tabs are noise and must never compete across machines.
+
+- **`.obsidian/workspace.json`** (window layout, open tabs, active file, last-opened) is **git-ignored**. Each person keeps their own.
+- **`.obsidian/graph.json`** is **tracked but frozen** so the shared `colorGroups` stay in sync without your zoom (`scale`) creating churn. Each collaborator runs this once per clone:
+
+```bash
+git update-index --skip-worktree .obsidian/graph.json
+```
+
+To intentionally change the shared scheme (e.g. recolor a stage), unfreeze, edit, commit, then re-freeze:
+
+```bash
+git update-index --no-skip-worktree .obsidian/graph.json
+#   ...edit colorGroups, git add, commit, push...
+git update-index --skip-worktree .obsidian/graph.json
+```
+
+Anyone who pulls gets the new colors automatically; their local zoom is unaffected.
+
 ## Where the model lives
 
 The contracts and the model that produced this vault live in the **doppl-prime** repo (`my-docs/the-hut/` and `contracts/`). aGarden is an instance of that model — but it's meant to be legible without it.

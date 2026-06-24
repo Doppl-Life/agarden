@@ -1,1 +1,8 @@
 */solution.md
+
+# Obsidian per-user UI state — window layout, open tabs, active file, last-opened.
+# Pure personal view-state, never shared. (graph.json is kept tracked but frozen
+# via `git update-index --skip-worktree` — see README "Vault config in git".)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
