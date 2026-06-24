@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/ai-forensic-reconstruction-bypassing-claims-c06e2498/ai-forensic-reconstruction-bypassing-claims-c06e2498.md",
+                "file": "when-the-crashes-dont-come-575845a4/actuarial-collapse-in-specialty-auto-reinsurance-59cd965f/litigation-liquidity-cliff-dde137c1/litigation-liquidity-cliff-dde137c1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-forensic-reconstruction-bypassing-claims-c06e2498"
+              "title": "litigation-liquidity-cliff-dde137c1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 263.5
   },
   "right": {
     "id": "5287af709d411e68",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/ai-forensic-reconstruction-bypassing-claims-c06e2498/ai-forensic-reconstruction-bypassing-claims-c06e2498.md",
+                "file": "when-the-crashes-dont-come-575845a4/actuarial-collapse-in-specialty-auto-reinsurance-59cd965f/litigation-liquidity-cliff-dde137c1/litigation-liquidity-cliff-dde137c1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ai-forensic-reconstruction-bypassing-claims-c06e2498"
+              "title": "Backlinks for litigation-liquidity-cliff-dde137c1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/ai-forensic-reconstruction-bypassing-claims-c06e2498/ai-forensic-reconstruction-bypassing-claims-c06e2498.md",
+                "file": "when-the-crashes-dont-come-575845a4/actuarial-collapse-in-specialty-auto-reinsurance-59cd965f/litigation-liquidity-cliff-dde137c1/litigation-liquidity-cliff-dde137c1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ai-forensic-reconstruction-bypassing-claims-c06e2498"
+              "title": "Outgoing links from litigation-liquidity-cliff-dde137c1"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/ai-forensic-reconstruction-bypassing-claims-c06e2498/ai-forensic-reconstruction-bypassing-claims-c06e2498.md",
+                "file": "when-the-crashes-dont-come-575845a4/actuarial-collapse-in-specialty-auto-reinsurance-59cd965f/litigation-liquidity-cliff-dde137c1/litigation-liquidity-cliff-dde137c1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ai-forensic-reconstruction-bypassing-claims-c06e2498"
+              "title": "Outline of litigation-liquidity-cliff-dde137c1"
             }
           }
         ]
@@ -185,42 +185,42 @@
   },
   "active": "ec5119414186c390",
   "lastOpenFiles": [
-    "doppl-nodes-1.md",
-    "README.md",
-    "Untitled.canvas",
-    "when-the-crashes-dont-come-575845a4/when-the-crashes-dont-come-575845a4.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/actuarial-frequency-collapse-and-capital-bcdbfdb8.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b.md",
-    "houston-baggage-claim-complaints-57251c2c/houston-baggage-claim-complaints-57251c2c.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-collapse-in-specialty-auto-reinsurance-59cd965f/jurisdictional-arbitrage-and-shadow-liability-e9e38bb9/jurisdictional-arbitrage-and-shadow-liability-e9e38bb9.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-d8344b6e.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/24-month-indemnification-window-stress-testing-b39eaf3e.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/cryptographic-defect-classification-e482e8fb/cryptographic-defect-classification-e482e8fb.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-collapse-in-specialty-auto-reinsurance-59cd965f/frequency-to-probability-underwriting-cliff-1bce2c97/frequency-to-probability-underwriting-cliff-1bce2c97.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/ai-forensic-reconstruction-bypassing-claims-c06e2498/ai-forensic-reconstruction-bypassing-claims-32be0e30/dynamic-escrow-via-fault-thresholds-89689582/dynamic-escrow-via-fault-thresholds-89689582.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/mobility-financialization-decoupling-from-bbf322c4/mobility-financialization-decoupling-from-d96264db/collateral-stripped-algorithmic-lines-827027ce/collateral-stripped-algorithmic-lines-827027ce.md",
-    "doppl-export-1.md",
-    "doppl-export-1.json",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/real-time-infrastructure-depreciation-accounting-204f09e3.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/liability-inversion-protocol-f98a60a8/liability-inversion-protocol-f98a60a8.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-collapse-in-specialty-auto-reinsurance-59cd965f/litigation-liquidity-cliff-dde137c1/litigation-liquidity-cliff-dde137c1.md",
-    "actuarial-winter-in-auto-liability-pools-1f4facd4/actuarial-winter-in-auto-liability-pools-1f4facd4.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-f62d7e6c/neutral-evidentiary-escrow-with-conditional-key-108c5210/neutral-evidentiary-escrow-with-conditional-key-108c5210.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-f62d7e6c/mandatory-public-hashing-of-incident-telemetry-da3ebf3e/mandatory-public-hashing-of-incident-telemetry-da3ebf3e.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-f62d7e6c/cryptographic-data-splitting-at-ingestion-46cc6495/cryptographic-data-splitting-at-ingestion-46cc6495.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-f62d7e6c/sensor-data-monopolies-and-oem-controlled-f62d7e6c.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-bfb32a67.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/hydraulic-pavement-taxonomy-247488b8/hydraulic-pavement-taxonomy-247488b8.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/escrow-first-infrastructure-financing-05c1a999/escrow-first-infrastructure-financing-05c1a999.md",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/predictive-enforcement-abolition-and-compliance-5659161e/liability-arbitrage-transition-5088bd6b/liability-arbitrage-transition-5088bd6b.md",
-    "actuarial-winter-in-auto-liability-pools-1f4facd4",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/hydraulic-pavement-taxonomy-247488b8",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/liability-inversion-protocol-f98a60a8",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/escrow-first-infrastructure-financing-05c1a999",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/predictive-enforcement-abolition-and-compliance-5659161e/liability-arbitrage-transition-5088bd6b",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/liquidity-bridge-via-mobility-backed-bonds-d3b01a15/telemetry-api-utility-billing-ec9af2b8",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/liquidity-bridge-via-mobility-backed-bonds-d3b01a15/right-of-way-capacity-auctions-5330e9cf",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/liquidity-bridge-via-mobility-backed-bonds-d3b01a15/predictive-maintenance-data-brokerage-325841f3",
-    "when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/insurance-telematics-verification-layer-2c58dfef/wear-linked-premium-reallocation-9b5f732a"
+    "white-castle-rent-leverage-98d7666c/white-castle-rent-leverage-98d7666c.md",
+    "white-castle-rent-leverage-98d7666c/solution.md",
+    "white-castle-rent-leverage-98d7666c",
+    "vanmoof-bike-packaging-444b7ac2/vanmoof-bike-packaging-444b7ac2.md",
+    "vanmoof-bike-packaging-444b7ac2/solution.md",
+    "vanmoof-bike-packaging-444b7ac2",
+    "synced-dev-state-086db5ce/synced-dev-state-086db5ce.md",
+    "synced-dev-state-086db5ce/solution.md",
+    "synced-dev-state-086db5ce",
+    "starship-launch-cost-collapse-10cfb1aa/starship-launch-cost-collapse-10cfb1aa.md",
+    "starship-launch-cost-collapse-10cfb1aa/solution.md",
+    "starship-launch-cost-collapse-10cfb1aa",
+    "source-control-beyond-repos-11b92103/source-control-beyond-repos-11b92103.md",
+    "source-control-beyond-repos-11b92103/solution.md",
+    "source-control-beyond-repos-11b92103",
+    "singapore-mrt-pre-peak-f3bb06be/solution.md",
+    "singapore-mrt-pre-peak-f3bb06be/singapore-mrt-pre-peak-f3bb06be.md",
+    "singapore-mrt-pre-peak-f3bb06be",
+    "review-at-agent-speed-d68163b9/review-at-agent-speed-d68163b9.md",
+    "review-at-agent-speed-d68163b9/solution.md",
+    "review-at-agent-speed-d68163b9",
+    "practitioner-benchmark-flywheel-4d76f045/solution.md",
+    "practitioner-benchmark-flywheel-4d76f045/practitioner-benchmark-flywheel-4d76f045.md",
+    "practitioner-benchmark-flywheel-4d76f045",
+    "post-primitive-team-comms-62a64093/solution.md",
+    "post-primitive-team-comms-62a64093/post-primitive-team-comms-62a64093.md",
+    "post-primitive-team-comms-62a64093",
+    "mobile-builder-distribution-collapse-6d3b6c21/solution.md",
+    "mobile-builder-distribution-collapse-6d3b6c21/mobile-builder-distribution-collapse-6d3b6c21.md",
+    "mobile-builder-distribution-collapse-6d3b6c21",
+    "london-underground-map-distortion-0e50c938/solution.md",
+    "london-underground-map-distortion-0e50c938/london-underground-map-distortion-0e50c938.md",
+    "loft-insulation-adoption-7b712077/loft-insulation-adoption-7b712077.md",
+    "loft-insulation-adoption-7b712077/solution.md",
+    "jack-yacht-perimeter-intrusion-8b0e23a1/solution.md",
+    "jack-yacht-perimeter-intrusion-8b0e23a1/jack-yacht-perimeter-intrusion-8b0e23a1.md",
+    "Untitled.canvas"
   ]
 }

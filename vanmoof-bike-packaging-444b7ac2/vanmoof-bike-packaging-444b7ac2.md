@@ -1,0 +1,31 @@
+---
+id: vanmoof-bike-packaging-444b7ac2
+stage: case_study
+name: "VanMoof Shipping Damage"
+next: problem_recovery
+---
+
+# VanMoof Shipping Damage
+
+prev_id: null
+
+## Context
+
+VanMoof is selling expensive bikes directly to customers. That means a large,
+awkward, high-value product has to survive an ordinary third-party shipping
+chain before the customer ever rides it.
+
+Too many bikes arrive damaged. Each damaged shipment creates replacement cost,
+support load, delay, waste, and a bad first ownership moment. The company can add
+more protective material, use heavier crates, or pay for more careful shipping,
+but each of those responses hurts cost, weight, waste, and scale.
+
+VanMoof does not control every handler, depot, truck, stack, or loading decision.
+Once the box enters the freight system, it is one large cardboard box among many.
+
+What could VanMoof change so bikes arrive damaged less often, without making each
+shipment materially heavier or operationally special?
+
+## Synopsis
+
+VanMoof ships expensive bikes direct to customers through ordinary carriers, and too many arrive damaged, creating cost and a poor first-ownership moment.
