@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Escrow-First Infrastructure Financing
 
-prev: [[real-time-infrastructure-depreciation-accounting-204f09e3]]
+prev_id: [[real-time-infrastructure-depreciation-accounting-204f09e3]]
 ## Trace
 ### Case study · synopsis
 

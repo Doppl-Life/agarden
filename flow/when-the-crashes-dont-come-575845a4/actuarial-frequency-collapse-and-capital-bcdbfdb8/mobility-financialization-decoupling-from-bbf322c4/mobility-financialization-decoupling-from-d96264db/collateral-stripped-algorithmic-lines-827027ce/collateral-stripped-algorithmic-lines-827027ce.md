@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Collateral-Stripped Algorithmic Lines
 
-prev: [[mobility-financialization-decoupling-from-d96264db]]
+prev_id: [[mobility-financialization-decoupling-from-d96264db]]
 ## Trace
 ### Case study · synopsis
 

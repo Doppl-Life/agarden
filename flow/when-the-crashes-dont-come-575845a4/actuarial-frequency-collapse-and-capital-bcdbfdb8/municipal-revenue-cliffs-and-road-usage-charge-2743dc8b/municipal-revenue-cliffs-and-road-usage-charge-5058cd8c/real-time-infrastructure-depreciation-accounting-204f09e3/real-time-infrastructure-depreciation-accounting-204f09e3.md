@@ -12,7 +12,7 @@ doppelgangers: 0
 # Real-Time Infrastructure Depreciation Accounting
 
 ## Trace
-prev: [[municipal-revenue-cliffs-and-road-usage-charge-5058cd8c]]
+prev_id: [[municipal-revenue-cliffs-and-road-usage-charge-5058cd8c]]
 
 ### Case study · synopsis
 

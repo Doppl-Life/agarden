@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Neutral Evidentiary Escrow with Conditional Key Release
 
-prev: [[sensor-data-monopolies-and-oem-controlled-f62d7e6c]]
+prev_id: [[sensor-data-monopolies-and-oem-controlled-f62d7e6c]]
 ## Trace
 ### Case study · synopsis
 

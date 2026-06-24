@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Fiscal Recalibration via Wear-Based RUC
 
-prev: [[municipal-revenue-cliffs-and-road-usage-charge-5058cd8c]]
+prev_id: [[municipal-revenue-cliffs-and-road-usage-charge-5058cd8c]]
 ## Trace
 ### Case study · synopsis
 

@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Parametric Roadway Risk Underwriting
 
-prev: [[fiscal-recalibration-via-wear-based-ruc-cff16230]]
+prev_id: [[fiscal-recalibration-via-wear-based-ruc-cff16230]]
 ## Trace
 ### Case study · synopsis
 

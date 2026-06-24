@@ -7,7 +7,7 @@ next: problem_recovery
 
 # When the Crashes Don't Come
 
-prev: none
+prev_id: null
 ## Context
 
 As of June 22, 2026, this is a Tesla case. Waymo proves driverless ride-hailing can

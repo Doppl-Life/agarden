@@ -7,7 +7,7 @@ next: problem_recovery
 
 # Sensor Data Monopolies and OEM-Controlled Incident Resolution
 
-prev: [[sensor-data-monopolies-and-oem-controlled-bfb32a67]]
+prev_id: [[sensor-data-monopolies-and-oem-controlled-bfb32a67]]
 ## Context
 
 Reseeded from a doppl leaf — the unlock becomes the seed of a new island.

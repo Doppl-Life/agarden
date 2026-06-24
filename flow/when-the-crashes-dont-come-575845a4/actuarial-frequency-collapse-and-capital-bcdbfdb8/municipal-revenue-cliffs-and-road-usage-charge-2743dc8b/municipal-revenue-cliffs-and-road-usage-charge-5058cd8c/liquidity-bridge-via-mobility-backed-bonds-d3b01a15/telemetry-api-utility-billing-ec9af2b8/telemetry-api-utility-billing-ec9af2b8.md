@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Telemetry API Utility Billing
 
-prev: [[liquidity-bridge-via-mobility-backed-bonds-d3b01a15]]
+prev_id: [[liquidity-bridge-via-mobility-backed-bonds-d3b01a15]]
 ## Trace
 ### Case study · synopsis
 

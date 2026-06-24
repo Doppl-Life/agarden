@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Open Telemetry Compacts
 
-prev: [[insurance-telematics-verification-layer-2c58dfef]]
+prev_id: [[insurance-telematics-verification-layer-2c58dfef]]
 ## Trace
 ### Case study · synopsis
 

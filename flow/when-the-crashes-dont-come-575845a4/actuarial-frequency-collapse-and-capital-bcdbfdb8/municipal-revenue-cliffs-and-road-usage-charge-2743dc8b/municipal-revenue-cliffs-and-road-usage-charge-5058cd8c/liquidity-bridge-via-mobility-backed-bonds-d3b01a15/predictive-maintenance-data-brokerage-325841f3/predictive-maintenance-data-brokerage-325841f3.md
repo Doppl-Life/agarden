@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Predictive Maintenance Data Brokerage
 
-prev: [[liquidity-bridge-via-mobility-backed-bonds-d3b01a15]]
+prev_id: [[liquidity-bridge-via-mobility-backed-bonds-d3b01a15]]
 ## Trace
 ### Case study · synopsis
 

@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Mobility Financialization Decoupling from Traditional Credit Scoring
 
-prev: [[actuarial-frequency-collapse-and-capital-bcdbfdb8]]
+prev_id: [[actuarial-frequency-collapse-and-capital-bcdbfdb8]]
 ## Trace
 ### Case study · synopsis
 

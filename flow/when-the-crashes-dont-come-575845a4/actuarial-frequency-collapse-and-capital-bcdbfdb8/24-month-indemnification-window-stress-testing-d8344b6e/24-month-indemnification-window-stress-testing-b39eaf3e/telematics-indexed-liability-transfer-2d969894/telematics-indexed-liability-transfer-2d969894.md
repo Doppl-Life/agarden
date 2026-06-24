@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Telematics-Indexed Liability Transfer
 
-prev: [[24-month-indemnification-window-stress-testing-b39eaf3e]]
+prev_id: [[24-month-indemnification-window-stress-testing-b39eaf3e]]
 ## Trace
 ### Case study · synopsis
 

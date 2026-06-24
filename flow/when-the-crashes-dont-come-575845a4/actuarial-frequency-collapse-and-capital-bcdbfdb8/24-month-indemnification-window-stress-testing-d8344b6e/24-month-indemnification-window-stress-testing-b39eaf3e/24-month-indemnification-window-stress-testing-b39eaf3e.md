@@ -7,7 +7,7 @@ next: problem_recovery
 
 # 24-Month Indemnification Window Stress-Testing for Warranty Structuring
 
-prev: [[24-month-indemnification-window-stress-testing-d8344b6e]]
+prev_id: [[24-month-indemnification-window-stress-testing-d8344b6e]]
 ## Context
 
 Reseeded from a doppl leaf — the unlock becomes the seed of a new island.

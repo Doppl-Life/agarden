@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # 24-Month Indemnification Window Stress-Testing for Warranty Structuring
 
-prev: [[actuarial-frequency-collapse-and-capital-bcdbfdb8]]
+prev_id: [[actuarial-frequency-collapse-and-capital-bcdbfdb8]]
 ## Trace
 ### Case study · synopsis
 

@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Sensor Data Monopolies and OEM-Controlled Incident Resolution
 
-prev: [[actuarial-frequency-collapse-and-capital-bcdbfdb8]]
+prev_id: [[actuarial-frequency-collapse-and-capital-bcdbfdb8]]
 ## Trace
 ### Case study · synopsis
 

@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Liquidity Bridge via Mobility-Backed Bonds
 
-prev: [[municipal-revenue-cliffs-and-road-usage-charge-5058cd8c]]
+prev_id: [[municipal-revenue-cliffs-and-road-usage-charge-5058cd8c]]
 ## Trace
 ### Case study · synopsis
 

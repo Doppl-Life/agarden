@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Dynamic Escrow via Fault Thresholds
 
-prev: [[ai-forensic-reconstruction-bypassing-claims-32be0e30]]
+prev_id: [[ai-forensic-reconstruction-bypassing-claims-32be0e30]]
 ## Trace
 ### Case study · synopsis
 

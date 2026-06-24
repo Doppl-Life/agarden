@@ -7,7 +7,7 @@ next: problem_recovery
 
 # Mobility Financialization Decoupling from Traditional Credit Scoring
 
-prev: [[mobility-financialization-decoupling-from-bbf322c4]]
+prev_id: [[mobility-financialization-decoupling-from-bbf322c4]]
 ## Context
 
 Reseeded from a doppl leaf — the unlock becomes the seed of a new island.

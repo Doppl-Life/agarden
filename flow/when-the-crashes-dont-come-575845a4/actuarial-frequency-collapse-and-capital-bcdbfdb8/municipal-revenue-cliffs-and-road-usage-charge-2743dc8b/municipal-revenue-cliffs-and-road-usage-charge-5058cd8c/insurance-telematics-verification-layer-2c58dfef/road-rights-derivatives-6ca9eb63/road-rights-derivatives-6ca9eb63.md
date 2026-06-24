@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Road Rights Derivatives
 
-prev: [[insurance-telematics-verification-layer-2c58dfef]]
+prev_id: [[insurance-telematics-verification-layer-2c58dfef]]
 ## Trace
 ### Case study · synopsis
 

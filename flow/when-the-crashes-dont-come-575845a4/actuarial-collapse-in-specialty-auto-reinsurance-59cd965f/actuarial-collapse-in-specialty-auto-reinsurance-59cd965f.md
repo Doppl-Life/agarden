@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Actuarial Collapse in Specialty Auto Reinsurance
 
-prev: [[when-the-crashes-dont-come-575845a4]]
+prev_id: [[when-the-crashes-dont-come-575845a4]]
 
 ## Trace
 

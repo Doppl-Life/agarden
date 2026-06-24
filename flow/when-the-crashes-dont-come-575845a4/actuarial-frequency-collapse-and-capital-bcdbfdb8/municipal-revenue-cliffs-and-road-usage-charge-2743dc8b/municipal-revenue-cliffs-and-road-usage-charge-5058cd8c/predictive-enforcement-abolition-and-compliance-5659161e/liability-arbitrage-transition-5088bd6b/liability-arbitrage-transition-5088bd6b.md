@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Liability Arbitrage Transition
 
-prev: [[predictive-enforcement-abolition-and-compliance-5659161e]]
+prev_id: [[predictive-enforcement-abolition-and-compliance-5659161e]]
 ## Trace
 ### Case study · synopsis
 

@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Municipal Revenue Cliffs and Road Usage Charge Transitions
 
-prev: [[actuarial-frequency-collapse-and-capital-bcdbfdb8]]
+prev_id: [[actuarial-frequency-collapse-and-capital-bcdbfdb8]]
 ## Trace
 ### Case study · synopsis
 

@@ -7,7 +7,7 @@ next: problem_recovery
 
 # AI Forensic Reconstruction Bypassing Claims Administration Layers
 
-prev: [[ai-forensic-reconstruction-bypassing-claims-c06e2498]]
+prev_id: [[ai-forensic-reconstruction-bypassing-claims-c06e2498]]
 ## Context
 
 Reseeded from a doppl leaf — the unlock becomes the seed of a new island.

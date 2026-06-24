@@ -7,7 +7,7 @@ next: problem_recovery
 
 # Municipal Revenue Cliffs and Road Usage Charge Transitions
 
-prev: [[municipal-revenue-cliffs-and-road-usage-charge-2743dc8b]]
+prev_id: [[municipal-revenue-cliffs-and-road-usage-charge-2743dc8b]]
 ## Context
 
 Reseeded from a doppl leaf — the unlock becomes the seed of a new island.

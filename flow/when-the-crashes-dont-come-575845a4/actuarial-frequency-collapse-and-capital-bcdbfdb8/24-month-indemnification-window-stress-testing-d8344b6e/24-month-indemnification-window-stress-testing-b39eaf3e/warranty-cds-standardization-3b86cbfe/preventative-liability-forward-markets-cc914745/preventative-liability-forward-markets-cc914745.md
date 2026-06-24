@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Preventative Liability Forward Markets
 
-prev: [[warranty-cds-standardization-3b86cbfe]]
+prev_id: [[warranty-cds-standardization-3b86cbfe]]
 ## Trace
 ### Case study · synopsis
 

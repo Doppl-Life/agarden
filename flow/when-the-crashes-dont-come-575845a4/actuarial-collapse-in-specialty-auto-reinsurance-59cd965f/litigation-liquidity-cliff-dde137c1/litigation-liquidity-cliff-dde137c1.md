@@ -10,7 +10,7 @@ doppelgangers: 0
 
 # Litigation Liquidity Cliff
 
-prev: [[actuarial-collapse-in-specialty-auto-reinsurance-59cd965f]]
+prev_id: [[actuarial-collapse-in-specialty-auto-reinsurance-59cd965f]]
 ## Trace
 ### Case study · synopsis
 
