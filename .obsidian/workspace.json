@@ -178,6 +178,11 @@
   },
   "active": "ec5119414186c390",
   "lastOpenFiles": [
+    "README.md",
+    "stock/distributed-ledger-5c8e0a93.md",
+    "stock/claims-adjustment-9d4b7e21.md",
+    "stock/municipal-bond-3f2a1c08.md",
+    "stock/financial-derivatives-7a1c4e90.md",
     "deprecated/doppl-nodes-1.md",
     "deprecated/doppl-export-1.json",
     "deprecated",
@@ -203,17 +208,12 @@
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/warranty-cds-standardization-3b86cbfe/sector-wide-early-failure-index-triggers-9e9e416a/sector-wide-early-failure-index-triggers-9e9e416a.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/warranty-cds-standardization-3b86cbfe/preventative-liability-forward-markets-cc914745/preventative-liability-forward-markets-cc914745.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-f62d7e6c/neutral-evidentiary-escrow-with-conditional-key-108c5210/neutral-evidentiary-escrow-with-conditional-key-108c5210.md",
-    "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-f62d7e6c/mandatory-public-hashing-of-incident-telemetry-da3ebf3e/mandatory-public-hashing-of-incident-telemetry-da3ebf3e.md",
-    "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/real-time-infrastructure-depreciation-accounting-204f09e3.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/liability-inversion-protocol-f98a60a8",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/hydraulic-pavement-taxonomy-247488b8",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/escrow-first-infrastructure-financing-05c1a999",
-    "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-f62d7e6c/cryptographic-data-splitting-at-ingestion-46cc6495/cryptographic-data-splitting-at-ingestion-46cc6495.md",
-    "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/predictive-enforcement-abolition-and-compliance-5659161e/predictive-enforcement-abolition-and-compliance-5659161e.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/predictive-enforcement-abolition-and-compliance-5659161e/liability-arbitrage-transition-5088bd6b",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/liquidity-bridge-via-mobility-backed-bonds-d3b01a15/telemetry-api-utility-billing-ec9af2b8",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/liquidity-bridge-via-mobility-backed-bonds-d3b01a15/right-of-way-capacity-auctions-5330e9cf",
-    "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/liquidity-bridge-via-mobility-backed-bonds-d3b01a15/liquidity-bridge-via-mobility-backed-bonds-d3b01a15.md",
     "Untitled.canvas"
   ]
 }
