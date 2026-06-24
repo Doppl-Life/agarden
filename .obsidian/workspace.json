@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "958a72ffbcb9bef9",
+        "id": "db52cb799c9d724f",
         "type": "tabs",
         "children": [
           {
-            "id": "a45ca43b54371948",
+            "id": "efab97cb8f42bc57",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,8 +176,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a45ca43b54371948",
+  "active": "efab97cb8f42bc57",
   "lastOpenFiles": [
+    "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/ai-forensic-reconstruction-bypassing-claims-c06e2498/ai-forensic-reconstruction-bypassing-claims-32be0e30/dynamic-escrow-via-fault-thresholds-89689582/dynamic-escrow-via-fault-thresholds-89689582.md",
     "flow/jack-yacht-perimeter-intrusion-8b0e23a1/solution.md",
     "stock/claims-adjustment-9d4b7e21.md",
     "flow/sealed-facility-staged-crisis-3f8a1d72/sealed-facility-staged-crisis-3f8a1d72.md",
@@ -209,7 +210,6 @@
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/fiscal-recalibration-via-wear-based-ruc-cff16230/infrastructure-compute-swap-tolling-e12f5945/infrastructure-compute-swap-tolling-e12f5945.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/fiscal-recalibration-via-wear-based-ruc-cff16230/algorithmic-wear-staking-for-municipal-solvency-f494cbee/algorithmic-wear-staking-for-municipal-solvency-f494cbee.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/warranty-cds-standardization-3b86cbfe/telemetry-triggered-indemnification-protocols-04dc72a5/telemetry-triggered-indemnification-protocols-04dc72a5.md",
-    "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/warranty-cds-standardization-3b86cbfe/sector-wide-early-failure-index-triggers-9e9e416a/sector-wide-early-failure-index-triggers-9e9e416a.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/liability-inversion-protocol-f98a60a8",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/hydraulic-pavement-taxonomy-247488b8",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/escrow-first-infrastructure-financing-05c1a999",
