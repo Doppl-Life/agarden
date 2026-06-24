@@ -31,7 +31,7 @@ Each arrow is one pass of the engine: it generates candidate ideas, measures the
 
 ## Reading it
 
-Open the folder as an **Obsidian vault**. The graph view shows the lineage of every idea and the links from nodes into the stock fields they drew on. `[[wikilinks]]` connect a node to its parent (`prev`) and to the exact stock discovery it used (`[[field#^anchor]]`).
+Open the folder as an **Obsidian vault**. The graph view shows the lineage of every idea and the links from nodes into the stock fields they drew on. Every cross-document reference in this vault is an Obsidian-compatible wikilink — `[[slug-id]]` for a file, `[[slug-id#^anchor]]` for a specific block — so the graph resolves end-to-end: a node's `prev_id` points at its parent node, and each Discovery finding deep-links the exact stock load-bearing fact it used.
 
 Or just read the markdown. Every node opens with its one-line headline; the body walks from inherited context (`Trace`) through what was found (`Discovery`) to what was concluded (`Growth`), ending with where the flow points next (`Path`).
 
