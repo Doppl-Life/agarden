@@ -23,15 +23,15 @@ Municipalities cling to punitive fiscal models that become structurally obsolete
 ## Discovery
 ### Finding 1
 
-City indemnification lawsuit volume down 38% in AV pilot zones (2023-2024) <span class="arrow">→ field: municipal-balance</span>
+City indemnification lawsuit volume down 38% in AV pilot zones (2023-2024) → field: municipal-balance
 
 ### Finding 2
 
-NHTSA FMCSA data showing commercial fleet dispatch reduction proportional to ADAS adoption <span class="arrow">→ field: municipal-balance</span>
+NHTSA FMCSA data showing commercial fleet dispatch reduction proportional to ADAS adoption → field: municipal-balance
 
 ### Finding 3
 
-Census Bureau municipal finance reports documenting negative ROI on enforcement programs at &gt;60% automation saturation <span class="arrow">→ field: municipal-balance</span>
+Census Bureau municipal finance reports documenting negative ROI on enforcement programs at &gt;60% automation saturation → field: municipal-balance
 
 ## Growth — Doppl
 ### Claim

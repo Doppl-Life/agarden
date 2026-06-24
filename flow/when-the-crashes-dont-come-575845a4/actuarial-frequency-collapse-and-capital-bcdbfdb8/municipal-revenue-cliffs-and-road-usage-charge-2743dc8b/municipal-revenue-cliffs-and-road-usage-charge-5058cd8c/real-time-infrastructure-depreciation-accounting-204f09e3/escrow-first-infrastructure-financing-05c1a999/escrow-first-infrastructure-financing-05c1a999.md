@@ -23,15 +23,15 @@ Municipal balance sheets fail to price the accelerated depreciation caused by op
 ## Discovery
 ### Finding 1
 
-GAO reports municipal infrastructure deficits exceed $1T due to accounting lags <span class="arrow">→ field: insurance-actuarial</span>
+GAO reports municipal infrastructure deficits exceed $1T due to accounting lags → field: insurance-actuarial
 
 ### Finding 2
 
-FHWA stress tests show AV routing accelerates fatigue failure by 2.3x on standard schedules <span class="arrow">→ field: insurance-actuarial</span>
+FHWA stress tests show AV routing accelerates fatigue failure by 2.3x on standard schedules → field: insurance-actuarial
 
 ### Finding 3
 
-S&amp;P Global municipal ratings confirm depreciation lag triggers 68% of maintenance-related downgrades <span class="arrow">→ field: insurance-actuarial</span>
+S&amp;P Global municipal ratings confirm depreciation lag triggers 68% of maintenance-related downgrades → field: insurance-actuarial
 
 ## Growth — Doppl
 ### Claim

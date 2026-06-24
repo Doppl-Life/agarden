@@ -23,15 +23,15 @@ Municipalities face a timing mismatch between revenue collapse and RUC implement
 ## Discovery
 ### Finding 1
 
-IIHS telematics penetration rates showing 4.8x annual growth in commercial fleet deployments <span class="arrow">→ field: traffic-enforcement</span>
+IIHS telematics penetration rates showing 4.8x annual growth in commercial fleet deployments → field: traffic-enforcement
 
 ### Finding 2
 
-Municipal insurance claim processing cost reductions (-31%) under predictive analytics models <span class="arrow">→ field: traffic-enforcement</span>
+Municipal insurance claim processing cost reductions (-31%) under predictive analytics models → field: traffic-enforcement
 
 ### Finding 3
 
-Open-telemetry compliance adoption curves tracking 73% voluntary uptake when tied to right-of-way access <span class="arrow">→ field: traffic-enforcement</span>
+Open-telemetry compliance adoption curves tracking 73% voluntary uptake when tied to right-of-way access → field: traffic-enforcement
 
 ## Growth — Doppl
 ### Claim

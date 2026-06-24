@@ -19,11 +19,11 @@ Mandating a 24-month liability transfer window forces OEMs, fleet operators, and
 ## Discovery
 ### Finding 1
 
-IFRS 15 revenue recognition standards prove fixed-term provisions improve financial forecasting <span class="arrow">→ field: corporate-finance</span>
+IFRS 15 revenue recognition standards prove fixed-term provisions improve financial forecasting → field: corporate-finance
 
 ### Finding 2
 
-Deloitte corporate finance reports show capped liability windows reduce reserve drag by 28% <span class="arrow">→ field: corporate-finance</span>
+Deloitte corporate finance reports show capped liability windows reduce reserve drag by 28% → field: corporate-finance
 
 ## Growth — Problem recovery
 ### Surface complaint

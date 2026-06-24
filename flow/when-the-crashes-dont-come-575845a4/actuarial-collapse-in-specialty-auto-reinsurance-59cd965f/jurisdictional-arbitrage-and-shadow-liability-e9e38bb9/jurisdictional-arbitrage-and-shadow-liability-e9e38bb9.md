@@ -23,15 +23,15 @@ Capital markets face basis risk when autonomy decouples vehicle value from tradi
 ## Discovery
 ### Finding 1
 
-California DMV public AV tester list excludes driverless deployment while Texas authorization streamlines commercial risk pools <span class="arrow">→ field: fragmented-state</span>
+California DMV public AV tester list excludes driverless deployment while Texas authorization streamlines commercial risk pools → field: fragmented-state
 
 ### Finding 2
 
-NHTSA federal preemption debates show persistent state-level liability fragmentation <span class="arrow">→ field: fragmented-state</span>
+NHTSA federal preemption debates show persistent state-level liability fragmentation → field: fragmented-state
 
 ### Finding 3
 
-Fleet operator expansion heatmaps align with jurisdictions offering litigation caps and testing waivers <span class="arrow">→ field: fragmented-state</span>
+Fleet operator expansion heatmaps align with jurisdictions offering litigation caps and testing waivers → field: fragmented-state
 
 ## Growth — Doppl
 ### Claim

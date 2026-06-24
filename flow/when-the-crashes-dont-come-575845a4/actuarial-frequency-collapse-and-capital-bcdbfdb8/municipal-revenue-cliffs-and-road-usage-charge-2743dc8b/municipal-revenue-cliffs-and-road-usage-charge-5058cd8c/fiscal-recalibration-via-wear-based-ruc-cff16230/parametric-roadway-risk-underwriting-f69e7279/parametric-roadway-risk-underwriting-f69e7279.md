@@ -23,19 +23,19 @@ Legacy fiscal architecture cannot capture value from predictable, optimized mobi
 ## Discovery
 ### Finding 1
 
-Lloyd's of London parametric insurance growth in infrastructure sectors (&gt;40% YoY) <span class="arrow">→ field: fiscal-insolvency</span>
+Lloyd's of London parametric insurance growth in infrastructure sectors (&gt;40% YoY) → field: fiscal-insolvency
 
 ### Finding 2
 
-FM Global risk engineering frameworks applied to commercial fleet routing <span class="arrow">→ field: fiscal-insolvency</span>
+FM Global risk engineering frameworks applied to commercial fleet routing → field: fiscal-insolvency
 
 ### Finding 3
 
-Municipal bond yield spreads reacting negatively to AV penetration rates &gt;15% <span class="arrow">→ field: fiscal-insolvency</span>
+Municipal bond yield spreads reacting negatively to AV penetration rates &gt;15% → field: fiscal-insolvency
 
 ### Finding 4
 
-Smart contract infrastructure payouts reducing repair response time by 68% in pilot zones <span class="arrow">→ field: fiscal-insolvency</span>
+Smart contract infrastructure payouts reducing repair response time by 68% in pilot zones → field: fiscal-insolvency
 
 ## Growth — Doppl
 ### Claim

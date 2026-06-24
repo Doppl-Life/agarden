@@ -19,15 +19,15 @@ Automated fleet deployment collapses municipal revenue streams derived from cras
 ## Discovery
 ### Finding 1
 
-Baltimore fine revenue collapse triggered bankruptcy and forced structural reform <span class="arrow">→ field: municipal-legal</span>
+Baltimore fine revenue collapse triggered bankruptcy and forced structural reform → field: municipal-legal
 
 ### Finding 2
 
-Georgia DOT API trials show 70% lower compliance costs vs ticketing systems <span class="arrow">→ field: municipal-legal</span>
+Georgia DOT API trials show 70% lower compliance costs vs ticketing systems → field: municipal-legal
 
 ### Finding 3
 
-Census Bureau municipal finance reports confirm enforcement ROI turns negative at scale <span class="arrow">→ field: municipal-legal</span>
+Census Bureau municipal finance reports confirm enforcement ROI turns negative at scale → field: municipal-legal
 
 ## Growth — Problem recovery
 ### Surface complaint

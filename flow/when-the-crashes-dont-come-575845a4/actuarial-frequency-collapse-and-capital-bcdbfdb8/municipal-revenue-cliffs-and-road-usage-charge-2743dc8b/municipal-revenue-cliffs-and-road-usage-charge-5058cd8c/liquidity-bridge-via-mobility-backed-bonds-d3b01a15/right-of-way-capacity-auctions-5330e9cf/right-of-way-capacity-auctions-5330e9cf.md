@@ -23,15 +23,15 @@ Municipalities face a timing mismatch between revenue collapse and RUC implement
 ## Discovery
 ### Finding 1
 
-PJM/LMSO grid auction clearing price volatility matching municipal bridge wear indices <span class="arrow">→ field: traditional-road</span>
+PJM/LMSO grid auction clearing price volatility matching municipal bridge wear indices → field: traditional-road
 
 ### Finding 2
 
-GSA fleet utilization data showing 62% routing efficiency gains under dynamic pricing models <span class="arrow">→ field: traditional-road</span>
+GSA fleet utilization data showing 62% routing efficiency gains under dynamic pricing models → field: traditional-road
 
 ### Finding 3
 
-European tolling authority transition reports confirming auction-based clearance outpaces statutory adjustment by 4.1x <span class="arrow">→ field: traditional-road</span>
+European tolling authority transition reports confirming auction-based clearance outpaces statutory adjustment by 4.1x → field: traditional-road
 
 ## Growth — Doppl
 ### Claim

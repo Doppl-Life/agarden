@@ -19,11 +19,11 @@ Usage-based autonomy pricing decouples mobility costs from vehicle ownership and
 ## Discovery
 ### Finding 1
 
-FTC/ECB reports on algorithmic bias in lending. <span class="arrow">→ field: xai-frameworks</span>
+FTC/ECB reports on algorithmic bias in lending. → field: xai-frameworks
 
 ### Finding 2
 
-MIT CSAIL studies on XAI in financial risk. <span class="arrow">→ field: xai-frameworks</span>
+MIT CSAIL studies on XAI in financial risk. → field: xai-frameworks
 
 ## Growth — Problem recovery
 ### Surface complaint

@@ -23,15 +23,15 @@ Capital markets face basis risk when autonomy decouples vehicle value from tradi
 ## Discovery
 ### Finding 1
 
-American Bar Association contingency practice surveys show 60% of auto tort cases tied to fatality/severe injury thresholds <span class="arrow">→ field: contingency-based-legal</span>
+American Bar Association contingency practice surveys show 60% of auto tort cases tied to fatality/severe injury thresholds → field: contingency-based-legal
 
 ### Finding 2
 
-State adjuster licensing data shows employment peaks correlating with historical traffic crash reports <span class="arrow">→ field: contingency-based-legal</span>
+State adjuster licensing data shows employment peaks correlating with historical traffic crash reports → field: contingency-based-legal
 
 ### Finding 3
 
-NHTSA 2023 report notes forensic reconstruction backlog expansion during pandemic (low-crash period) as a capacity stress signal <span class="arrow">→ field: contingency-based-legal</span>
+NHTSA 2023 report notes forensic reconstruction backlog expansion during pandemic (low-crash period) as a capacity stress signal → field: contingency-based-legal
 
 ## Growth — Doppl
 ### Claim

@@ -19,11 +19,11 @@ Mandating a 24-month liability transfer window forces OEMs, fleet operators, and
 ## Discovery
 ### Finding 1
 
-Samsara fleet telematics adoption correlates with 40% faster fault diagnosis <span class="arrow">→ field: industrial-iot</span>
+Samsara fleet telematics adoption correlates with 40% faster fault diagnosis → field: industrial-iot
 
 ### Finding 2
 
-ISO 13849 safety integrity levels map directly to component failure probabilities <span class="arrow">→ field: industrial-iot</span>
+ISO 13849 safety integrity levels map directly to component failure probabilities → field: industrial-iot
 
 ## Growth — Problem recovery
 ### Surface complaint

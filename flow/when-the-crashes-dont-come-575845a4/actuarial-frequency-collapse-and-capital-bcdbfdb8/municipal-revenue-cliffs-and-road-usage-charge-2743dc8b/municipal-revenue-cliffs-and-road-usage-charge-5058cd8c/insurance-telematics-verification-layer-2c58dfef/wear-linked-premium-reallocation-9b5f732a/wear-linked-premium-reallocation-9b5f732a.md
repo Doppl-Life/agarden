@@ -23,15 +23,15 @@ Municipalities are reinventing telemetry infrastructure instead of leveraging ex
 ## Discovery
 ### Finding 1
 
-FHWA bridge weight studies showing direct correlation to infrastructure costs <span class="arrow">→ field: pavement-degradation</span>
+FHWA bridge weight studies showing direct correlation to infrastructure costs → field: pavement-degradation
 
 ### Finding 2
 
-State Farm/Progressive 90% DOT overlap confirming physics data availability <span class="arrow">→ field: pavement-degradation</span>
+State Farm/Progressive 90% DOT overlap confirming physics data availability → field: pavement-degradation
 
 ### Finding 3
 
-KPMG audit cost reduction validating actuarial alignment <span class="arrow">→ field: pavement-degradation</span>
+KPMG audit cost reduction validating actuarial alignment → field: pavement-degradation
 
 ## Growth — Doppl
 ### Claim

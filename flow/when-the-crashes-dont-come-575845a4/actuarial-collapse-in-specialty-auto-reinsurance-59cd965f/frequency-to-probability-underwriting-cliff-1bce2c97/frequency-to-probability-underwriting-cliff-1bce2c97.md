@@ -26,15 +26,15 @@ Capital markets face basis risk when autonomy decouples vehicle value from tradi
 
 ### Finding 1
 
-Texas SB 26 mandates state-backed risk pools for AV operators, revealing pre-existing captive structures dependent on crash frequency <span class="arrow">→ field: actuarial-pricing</span>
+Texas SB 26 mandates state-backed risk pools for AV operators, revealing pre-existing captive structures dependent on crash frequency → field: actuarial-pricing
 
 ### Finding 2
 
-ISO Auto Insurance Loss Index data shows premium-to-claim ratios tightening as telematics adoption increases <span class="arrow">→ field: actuarial-pricing</span>
+ISO Auto Insurance Loss Index data shows premium-to-claim ratios tightening as telematics adoption increases → field: actuarial-pricing
 
 ### Finding 3
 
-NHTSA preliminary data on limited Robotaxi deployments shows &lt;0.5 critical incidents per million miles <span class="arrow">→ field: actuarial-pricing</span>
+NHTSA preliminary data on limited Robotaxi deployments shows &lt;0.5 critical incidents per million miles → field: actuarial-pricing
 
 ## Growth — Doppl
 

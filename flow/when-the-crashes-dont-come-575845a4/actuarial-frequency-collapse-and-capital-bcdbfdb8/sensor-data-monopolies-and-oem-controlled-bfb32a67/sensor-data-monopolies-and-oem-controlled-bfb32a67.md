@@ -23,19 +23,19 @@ Structural mismatch between legacy risk pricing models and sudden crash volume d
 ## Discovery
 ### Finding 1
 
-OEM direct settlement program announcements in Texas and California rollout zones <span class="arrow">→ field: automotive-sensor</span>
+OEM direct settlement program announcements in Texas and California rollout zones → field: automotive-sensor
 
 ### Finding 2
 
-Sensor data access restriction clauses in existing fleet operator contracts <span class="arrow">→ field: automotive-sensor</span>
+Sensor data access restriction clauses in existing fleet operator contracts → field: automotive-sensor
 
 ### Finding 3
 
-Forensic expert testimony dependency ratios on manufacturer-provided raw data logs <span class="arrow">→ field: automotive-sensor</span>
+Forensic expert testimony dependency ratios on manufacturer-provided raw data logs → field: automotive-sensor
 
 ### Finding 4
 
-Regulatory filings highlighting open-data standardization requests for autonomous incident review <span class="arrow">→ field: automotive-sensor</span>
+Regulatory filings highlighting open-data standardization requests for autonomous incident review → field: automotive-sensor
 
 ## Growth — Doppl
 ### Claim

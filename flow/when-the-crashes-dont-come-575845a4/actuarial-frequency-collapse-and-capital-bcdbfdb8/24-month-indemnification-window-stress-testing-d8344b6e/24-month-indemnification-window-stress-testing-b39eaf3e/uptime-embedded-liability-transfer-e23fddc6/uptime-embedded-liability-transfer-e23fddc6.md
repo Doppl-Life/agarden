@@ -19,11 +19,11 @@ Mandating a 24-month liability transfer window forces OEMs, fleet operators, and
 ## Discovery
 ### Finding 1
 
-Mack Trucks uptime SLAs correlate directly with warranty claim frequency <span class="arrow">→ field: fleet-management</span>
+Mack Trucks uptime SLAs correlate directly with warranty claim frequency → field: fleet-management
 
 ### Finding 2
 
-ISO 22400 manufacturing KPIs show downtime cost is 15x part cost <span class="arrow">→ field: fleet-management</span>
+ISO 22400 manufacturing KPIs show downtime cost is 15x part cost → field: fleet-management
 
 ## Growth — Problem recovery
 ### Surface complaint

@@ -23,15 +23,15 @@ Municipalities are reinventing telemetry infrastructure instead of leveraging ex
 ## Discovery
 ### Finding 1
 
-KPMG 47% audit cost reduction proving data liquidity <span class="arrow">→ field: av-fleet</span>
+KPMG 47% audit cost reduction proving data liquidity → field: av-fleet
 
 ### Finding 2
 
-DOT standard overlap confirming oracle reliability <span class="arrow">→ field: av-fleet</span>
+DOT standard overlap confirming oracle reliability → field: av-fleet
 
 ### Finding 3
 
-Fiscal cliff projections in CA/OR/WA RUC pilots showing fixed-tax failure rates <span class="arrow">→ field: av-fleet</span>
+Fiscal cliff projections in CA/OR/WA RUC pilots showing fixed-tax failure rates → field: av-fleet
 
 ## Growth — Doppl
 ### Claim

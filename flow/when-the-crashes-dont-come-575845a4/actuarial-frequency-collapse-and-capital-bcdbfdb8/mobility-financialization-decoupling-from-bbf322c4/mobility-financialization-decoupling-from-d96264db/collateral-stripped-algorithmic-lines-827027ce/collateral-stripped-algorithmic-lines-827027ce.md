@@ -19,11 +19,11 @@ Usage-based autonomy pricing decouples mobility costs from vehicle ownership and
 ## Discovery
 ### Finding 1
 
-Federal Reserve Senior Loan Officer Survey on collateral requirements. <span class="arrow">→ field: open-banking</span>
+Federal Reserve Senior Loan Officer Survey on collateral requirements. → field: open-banking
 
 ### Finding 2
 
-Stripe/Plaid data on real-time underwriting success rates. <span class="arrow">→ field: open-banking</span>
+Stripe/Plaid data on real-time underwriting success rates. → field: open-banking
 
 ## Growth — Problem recovery
 ### Surface complaint

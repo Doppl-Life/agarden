@@ -19,15 +19,15 @@ Autonomous sensor networks create data monopolies that allow manufacturers to di
 ## Discovery
 ### Finding 1
 
-EU Data Act vehicle data sharing provisions <span class="arrow">→ field: cryptographic-access</span>
+EU Data Act vehicle data sharing provisions → field: cryptographic-access
 
 ### Finding 2
 
-Automotive cybersecurity incident response frameworks <span class="arrow">→ field: cryptographic-access</span>
+Automotive cybersecurity incident response frameworks → field: cryptographic-access
 
 ### Finding 3
 
-Liability insurance claim processing times pre/post escrow mandates <span class="arrow">→ field: cryptographic-access</span>
+Liability insurance claim processing times pre/post escrow mandates → field: cryptographic-access
 
 ## Growth — Problem recovery
 ### Surface complaint

@@ -23,15 +23,15 @@ Municipalities face a timing mismatch between revenue collapse and RUC implement
 ## Discovery
 ### Finding 1
 
-GAO reports on municipal traffic enforcement revenue decay (avg -19% annually post-2020) <span class="arrow">→ field: municipal-administrative</span>
+GAO reports on municipal traffic enforcement revenue decay (avg -19% annually post-2020) → field: municipal-administrative
 
 ### Finding 2
 
-ISO 15118 payment standard adoption curves in European transit agencies <span class="arrow">→ field: municipal-administrative</span>
+ISO 15118 payment standard adoption curves in European transit agencies → field: municipal-administrative
 
 ### Finding 3
 
-SACRTA transition cost models showing API deployment lag under 4 months vs 18+ for physical tolling <span class="arrow">→ field: municipal-administrative</span>
+SACRTA transition cost models showing API deployment lag under 4 months vs 18+ for physical tolling → field: municipal-administrative
 
 ## Growth — Doppl
 ### Claim

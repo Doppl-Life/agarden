@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e47d0a62861d57d",
+        "id": "958a72ffbcb9bef9",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5119414186c390",
+            "id": "a45ca43b54371948",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 200
   },
   "right": {
     "id": "5287af709d411e68",
@@ -176,14 +176,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "ec5119414186c390",
+  "active": "a45ca43b54371948",
   "lastOpenFiles": [
+    "stock/claims-adjustment-9d4b7e21.md",
     "flow/sealed-facility-staged-crisis-3f8a1d72/sealed-facility-staged-crisis-3f8a1d72.md",
     "flow/sealed-facility-staged-crisis-3f8a1d72",
     "ratings-ledger.json",
     "README.md",
     "stock/distributed-ledger-5c8e0a93.md",
-    "stock/claims-adjustment-9d4b7e21.md",
     "stock/municipal-bond-3f2a1c08.md",
     "stock/financial-derivatives-7a1c4e90.md",
     "deprecated/doppl-nodes-1.md",

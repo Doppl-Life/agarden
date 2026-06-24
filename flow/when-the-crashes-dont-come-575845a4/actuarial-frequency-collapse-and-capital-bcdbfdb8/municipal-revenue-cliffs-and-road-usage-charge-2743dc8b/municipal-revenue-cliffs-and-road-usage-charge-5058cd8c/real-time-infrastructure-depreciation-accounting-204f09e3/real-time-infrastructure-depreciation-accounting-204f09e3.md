@@ -21,15 +21,15 @@ Automated fleet deployment collapses municipal revenue streams derived from cras
 ## Discovery
 ### Finding 1
 
-GAO reports municipal infrastructure deficits exceed $1T due to accounting lags <span class="arrow">→ field: municipal-accounting</span>
+GAO reports municipal infrastructure deficits exceed $1T due to accounting lags → field: municipal-accounting
 
 ### Finding 2
 
-FHWA stress tests show AV routing accelerates fatigue failure by 2.3x on standard schedules <span class="arrow">→ field: municipal-accounting</span>
+FHWA stress tests show AV routing accelerates fatigue failure by 2.3x on standard schedules → field: municipal-accounting
 
 ### Finding 3
 
-S&amp;P Global municipal ratings confirm depreciation lag triggers 68% of maintenance-related downgrades <span class="arrow">→ field: municipal-accounting</span>
+S&amp;P Global municipal ratings confirm depreciation lag triggers 68% of maintenance-related downgrades → field: municipal-accounting
 
 ## Growth — Problem recovery
 ### Surface complaint

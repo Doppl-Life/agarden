@@ -19,15 +19,15 @@ With Tesla robotaxi service live in parts of Texas, the case examines what happe
 ## Discovery
 ### Finding 1
 
-S&amp;P Global auto insurance loss ratio reports <span class="arrow">→ field: actuarial-risk</span>
+S&amp;P Global auto insurance loss ratio reports → field: actuarial-risk
 
 ### Finding 2
 
-Geneva Association motor risk studies <span class="arrow">→ field: actuarial-risk</span>
+Geneva Association motor risk studies → field: actuarial-risk
 
 ### Finding 3
 
-NAIC regional adjuster headcount trends <span class="arrow">→ field: actuarial-risk</span>
+NAIC regional adjuster headcount trends → field: actuarial-risk
 
 ## Growth — Problem recovery
 ### Surface complaint

@@ -19,11 +19,11 @@ Usage-based autonomy pricing decouples mobility costs from vehicle ownership and
 ## Discovery
 ### Finding 1
 
-TransUnion Experian reports on credit score decay post-auto lease. <span class="arrow">→ field: real-time-transaction</span>
+TransUnion Experian reports on credit score decay post-auto lease. → field: real-time-transaction
 
 ### Finding 2
 
-S&amp;P Global data showing telematics insurance risk reduction of 20-30%. <span class="arrow">→ field: real-time-transaction</span>
+S&amp;P Global data showing telematics insurance risk reduction of 20-30%. → field: real-time-transaction
 
 ## Growth — Problem recovery
 ### Surface complaint

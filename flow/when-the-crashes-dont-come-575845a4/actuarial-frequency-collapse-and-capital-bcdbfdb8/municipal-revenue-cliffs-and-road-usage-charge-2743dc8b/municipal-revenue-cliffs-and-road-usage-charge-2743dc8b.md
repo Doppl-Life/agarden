@@ -23,19 +23,19 @@ Structural mismatch between legacy risk pricing models and sudden crash volume d
 ## Discovery
 ### Finding 1
 
-International City/County Management Association (ICMA) municipal revenue composition reports showing 3-7% dependence on traffic fines <span class="arrow">→ field: local-government</span>
+International City/County Management Association (ICMA) municipal revenue composition reports showing 3-7% dependence on traffic fines → field: local-government
 
 ### Finding 2
 
-EPA fuel tax collection trends declining as EV adoption accelerates alongside autonomy rollout <span class="arrow">→ field: local-government</span>
+EPA fuel tax collection trends declining as EV adoption accelerates alongside autonomy rollout → field: local-government
 
 ### Finding 3
 
-State DOT infrastructure funding gap analyses highlighting per-mile pricing transition delays <span class="arrow">→ field: local-government</span>
+State DOT infrastructure funding gap analyses highlighting per-mile pricing transition delays → field: local-government
 
 ### Finding 4
 
-Municipal bond prospectuses referencing traffic-revenue dependency ratios in autonomous deployment zones <span class="arrow">→ field: local-government</span>
+Municipal bond prospectuses referencing traffic-revenue dependency ratios in autonomous deployment zones → field: local-government
 
 ## Growth — Doppl
 ### Claim

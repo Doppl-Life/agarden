@@ -23,19 +23,19 @@ Structural mismatch between legacy risk pricing models and sudden crash volume d
 ## Discovery
 ### Finding 1
 
-Federal Reserve credit report trends showing declining auto-loan origination velocity tied to traditional scoring <span class="arrow">→ field: consumer-auto</span>
+Federal Reserve credit report trends showing declining auto-loan origination velocity tied to traditional scoring → field: consumer-auto
 
 ### Finding 2
 
-Major lender portfolio reports highlighting collision history as a key default-prediction variable <span class="arrow">→ field: consumer-auto</span>
+Major lender portfolio reports highlighting collision history as a key default-prediction variable → field: consumer-auto
 
 ### Finding 3
 
-Fintech underwriting platform growth metrics tracking telemetry-based loan origination shifts <span class="arrow">→ field: consumer-auto</span>
+Fintech underwriting platform growth metrics tracking telemetry-based loan origination shifts → field: consumer-auto
 
 ### Finding 4
 
-ABS market restructuring data showing migration from auto-backed to usage-backed securitization <span class="arrow">→ field: consumer-auto</span>
+ABS market restructuring data showing migration from auto-backed to usage-backed securitization → field: consumer-auto
 
 ## Growth — Doppl
 ### Claim

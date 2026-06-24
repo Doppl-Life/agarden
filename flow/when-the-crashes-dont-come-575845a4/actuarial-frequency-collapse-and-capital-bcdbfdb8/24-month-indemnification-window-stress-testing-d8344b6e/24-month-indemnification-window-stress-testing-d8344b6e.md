@@ -23,19 +23,19 @@ Structural mismatch between legacy risk pricing models and sudden crash volume d
 ## Discovery
 ### Finding 1
 
-OEM warranty renewal terms showing extended coverage periods conflicting with rapid liability transfer needs <span class="arrow">→ field: automotive-warranty</span>
+OEM warranty renewal terms showing extended coverage periods conflicting with rapid liability transfer needs → field: automotive-warranty
 
 ### Finding 2
 
-Fleet operator contract templates embedding static deductible structures incompatible with dynamic risk shifts <span class="arrow">→ field: automotive-warranty</span>
+Fleet operator contract templates embedding static deductible structures incompatible with dynamic risk shifts → field: automotive-warranty
 
 ### Finding 3
 
-Regulatory filing requirements highlighting delayed liability-transfer disclosure in autonomy service agreements <span class="arrow">→ field: automotive-warranty</span>
+Regulatory filing requirements highlighting delayed liability-transfer disclosure in autonomy service agreements → field: automotive-warranty
 
 ### Finding 4
 
-Cross-party risk-allocation pilot programs testing 24-month indemnification trigger windows <span class="arrow">→ field: automotive-warranty</span>
+Cross-party risk-allocation pilot programs testing 24-month indemnification trigger windows → field: automotive-warranty
 
 ## Growth — Doppl
 ### Claim

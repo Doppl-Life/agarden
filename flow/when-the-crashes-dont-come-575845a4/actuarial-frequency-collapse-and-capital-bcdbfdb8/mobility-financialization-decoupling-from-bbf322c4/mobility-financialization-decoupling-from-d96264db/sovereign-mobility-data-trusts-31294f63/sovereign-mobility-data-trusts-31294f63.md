@@ -19,11 +19,11 @@ Usage-based autonomy pricing decouples mobility costs from vehicle ownership and
 ## Discovery
 ### Finding 1
 
-EU Data Act provisions on IoT data sharing. <span class="arrow">→ field: public-cloud</span>
+EU Data Act provisions on IoT data sharing. → field: public-cloud
 
 ### Finding 2
 
-Stanford Digital Trust frameworks. <span class="arrow">→ field: public-cloud</span>
+Stanford Digital Trust frameworks. → field: public-cloud
 
 ## Growth — Problem recovery
 ### Surface complaint

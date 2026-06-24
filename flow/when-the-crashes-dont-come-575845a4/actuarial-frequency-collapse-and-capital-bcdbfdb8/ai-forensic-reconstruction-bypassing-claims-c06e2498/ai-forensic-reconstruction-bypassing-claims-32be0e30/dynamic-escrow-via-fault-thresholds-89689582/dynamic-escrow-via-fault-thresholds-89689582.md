@@ -19,11 +19,11 @@ Autonomous sensor data enables instant, AI-driven forensic reconstruction that e
 ## Discovery
 ### Finding 1
 
-ICBC 2023 pilot: 68% cycle time reduction with auto-triggered provisional payouts <span class="arrow">→ field: contractual-risk-transfer</span>
+ICBC 2023 pilot: 68% cycle time reduction with auto-triggered provisional payouts → field: contractual-risk-transfer
 
 ### Finding 2
 
-Blockchain audit trails reduced dispute resolution costs by 41% in fleet trials <span class="arrow">→ field: contractual-risk-transfer</span>
+Blockchain audit trails reduced dispute resolution costs by 41% in fleet trials → field: contractual-risk-transfer
 
 ## Growth — Problem recovery
 ### Surface complaint

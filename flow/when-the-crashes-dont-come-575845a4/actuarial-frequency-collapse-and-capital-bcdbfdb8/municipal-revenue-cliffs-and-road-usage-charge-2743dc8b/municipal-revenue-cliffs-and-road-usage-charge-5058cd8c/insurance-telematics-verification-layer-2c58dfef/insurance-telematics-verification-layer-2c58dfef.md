@@ -19,15 +19,15 @@ Automated fleet deployment collapses municipal revenue streams derived from cras
 ## Discovery
 ### Finding 1
 
-State Farm/Progressive AV pilot data shows 90% telemetry overlap with DOT requirements <span class="arrow">→ field: commercial-insurance</span>
+State Farm/Progressive AV pilot data shows 90% telemetry overlap with DOT requirements → field: commercial-insurance
 
 ### Finding 2
 
-NHTSA reports insurer data latency &lt;2 hours vs municipal sensor deployment lag of 18 months <span class="arrow">→ field: commercial-insurance</span>
+NHTSA reports insurer data latency &lt;2 hours vs municipal sensor deployment lag of 18 months → field: commercial-insurance
 
 ### Finding 3
 
-KPMG actuarial reviews confirm commercial data reduces municipal audit costs by 47% <span class="arrow">→ field: commercial-insurance</span>
+KPMG actuarial reviews confirm commercial data reduces municipal audit costs by 47% → field: commercial-insurance
 
 ## Growth — Problem recovery
 ### Surface complaint

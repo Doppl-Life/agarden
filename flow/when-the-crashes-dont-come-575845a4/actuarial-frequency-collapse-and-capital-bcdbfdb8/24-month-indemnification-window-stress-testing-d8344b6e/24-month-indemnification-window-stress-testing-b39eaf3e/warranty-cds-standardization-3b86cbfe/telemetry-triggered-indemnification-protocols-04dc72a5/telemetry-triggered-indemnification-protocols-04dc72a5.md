@@ -23,15 +23,15 @@ Unhedged tail risk in early-life fleet deployments creates capital inefficiency 
 ## Discovery
 ### Finding 1
 
-ISO 13849 reliability engineering frameworks support threshold-based safety certification <span class="arrow">→ field: industrial-iot</span>
+ISO 13849 reliability engineering frameworks support threshold-based safety certification → field: industrial-iot
 
 ### Finding 2
 
-Ethereum-based supply chain smart contracts process indemnification in under 12 hours <span class="arrow">→ field: industrial-iot</span>
+Ethereum-based supply chain smart contracts process indemnification in under 12 hours → field: industrial-iot
 
 ### Finding 3
 
-Bosch IoT Suite logs component failure rates at 50-millisecond intervals enabling precise hazard modeling <span class="arrow">→ field: industrial-iot</span>
+Bosch IoT Suite logs component failure rates at 50-millisecond intervals enabling precise hazard modeling → field: industrial-iot
 
 ## Growth — Doppl
 ### Claim

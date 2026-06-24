@@ -23,19 +23,19 @@ Legacy fiscal architecture cannot capture value from predictable, optimized mobi
 ## Discovery
 ### Finding 1
 
-AT&amp;T/Metroweb microcell lease models demonstrating infrastructure-for-access swaps <span class="arrow">→ field: revenue-cliffs</span>
+AT&amp;T/Metroweb microcell lease models demonstrating infrastructure-for-access swaps → field: revenue-cliffs
 
 ### Finding 2
 
-Singapore digital twin road sensors funded by telecom partnerships <span class="arrow">→ field: revenue-cliffs</span>
+Singapore digital twin road sensors funded by telecom partnerships → field: revenue-cliffs
 
 ### Finding 3
 
-Municipal IT capex shifts toward edge computing (&gt;60% of tech budgets by 2026 projections) <span class="arrow">→ field: revenue-cliffs</span>
+Municipal IT capex shifts toward edge computing (&gt;60% of tech budgets by 2026 projections) → field: revenue-cliffs
 
 ### Finding 4
 
-AV fleet sensor suites already capturing intersection-level data at scale <span class="arrow">→ field: revenue-cliffs</span>
+AV fleet sensor suites already capturing intersection-level data at scale → field: revenue-cliffs
 
 ## Growth — Doppl
 ### Claim

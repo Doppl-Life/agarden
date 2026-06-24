@@ -23,15 +23,15 @@ Unhedged tail risk in early-life fleet deployments creates capital inefficiency 
 ## Discovery
 ### Finding 1
 
-Siemens Condition Monitoring predicts bearing failures 200 hours in advance <span class="arrow">→ field: predictive-analytics</span>
+Siemens Condition Monitoring predicts bearing failures 200 hours in advance → field: predictive-analytics
 
 ### Finding 2
 
-ISDA documentation frameworks now accept non-financial performance metrics as margin substitutes <span class="arrow">→ field: predictive-analytics</span>
+ISDA documentation frameworks now accept non-financial performance metrics as margin substitutes → field: predictive-analytics
 
 ### Finding 3
 
-Cummins Connected Fleet data shows 41 percent reduction in DPF system claims when predictive algorithms are active <span class="arrow">→ field: predictive-analytics</span>
+Cummins Connected Fleet data shows 41 percent reduction in DPF system claims when predictive algorithms are active → field: predictive-analytics
 
 ## Growth — Doppl
 ### Claim

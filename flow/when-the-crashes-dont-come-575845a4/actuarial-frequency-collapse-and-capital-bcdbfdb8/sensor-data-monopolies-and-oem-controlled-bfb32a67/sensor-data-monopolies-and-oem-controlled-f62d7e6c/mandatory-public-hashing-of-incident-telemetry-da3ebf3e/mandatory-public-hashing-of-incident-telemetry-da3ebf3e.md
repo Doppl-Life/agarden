@@ -19,15 +19,15 @@ Autonomous sensor networks create data monopolies that allow manufacturers to di
 ## Discovery
 ### Finding 1
 
-EU GDPR right to access vs. vehicle data exemptions <span class="arrow">→ field: blockchain-anchored-evidentiary</span>
+EU GDPR right to access vs. vehicle data exemptions → field: blockchain-anchored-evidentiary
 
 ### Finding 2
 
-NHTSA crash telemetry reporting timelines <span class="arrow">→ field: blockchain-anchored-evidentiary</span>
+NHTSA crash telemetry reporting timelines → field: blockchain-anchored-evidentiary
 
 ### Finding 3
 
-Automotive liability insurance claim adjudication rates <span class="arrow">→ field: blockchain-anchored-evidentiary</span>
+Automotive liability insurance claim adjudication rates → field: blockchain-anchored-evidentiary
 
 ## Growth — Problem recovery
 ### Surface complaint

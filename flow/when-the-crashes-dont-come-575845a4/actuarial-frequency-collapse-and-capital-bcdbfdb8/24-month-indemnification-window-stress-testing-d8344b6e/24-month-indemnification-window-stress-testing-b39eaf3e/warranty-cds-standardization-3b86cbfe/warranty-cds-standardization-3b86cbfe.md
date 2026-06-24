@@ -19,11 +19,11 @@ Mandating a 24-month liability transfer window forces OEMs, fleet operators, and
 ## Discovery
 ### Finding 1
 
-Lloyd's of London fleet insurance derivatives show 3x faster capital deployment <span class="arrow">→ field: financial-derivatives</span>
+Lloyd's of London fleet insurance derivatives show 3x faster capital deployment → field: financial-derivatives
 
 ### Finding 2
 
-BIS data confirms standardized credit events reduce hedging costs by 40% <span class="arrow">→ field: financial-derivatives</span>
+BIS data confirms standardized credit events reduce hedging costs by 40% → field: financial-derivatives
 
 ## Growth — Problem recovery
 ### Surface complaint

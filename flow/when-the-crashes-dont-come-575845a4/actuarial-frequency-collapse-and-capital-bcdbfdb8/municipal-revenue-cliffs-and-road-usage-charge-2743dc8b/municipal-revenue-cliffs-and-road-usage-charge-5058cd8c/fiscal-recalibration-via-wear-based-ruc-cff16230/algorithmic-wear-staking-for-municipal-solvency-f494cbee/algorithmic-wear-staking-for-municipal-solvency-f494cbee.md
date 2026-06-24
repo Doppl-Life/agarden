@@ -23,19 +23,19 @@ Legacy fiscal architecture cannot capture value from predictable, optimized mobi
 ## Discovery
 ### Finding 1
 
-FHWA 2024 report on 18% faster pavement degradation per mile from heavy AV convoys <span class="arrow">→ field: legacy-road-tax</span>
+FHWA 2024 report on 18% faster pavement degradation per mile from heavy AV convoys → field: legacy-road-tax
 
 ### Finding 2
 
-Moody's mobility RUC predictability metrics exceeding 92% <span class="arrow">→ field: legacy-road-tax</span>
+Moody's mobility RUC predictability metrics exceeding 92% → field: legacy-road-tax
 
 ### Finding 3
 
-California AB 105 enabling OBU data sharing for infrastructure pricing <span class="arrow">→ field: legacy-road-tax</span>
+California AB 105 enabling OBU data sharing for infrastructure pricing → field: legacy-road-tax
 
 ### Finding 4
 
-DOT pilot data showing telematics can reduce predictive maintenance costs by 34% <span class="arrow">→ field: legacy-road-tax</span>
+DOT pilot data showing telematics can reduce predictive maintenance costs by 34% → field: legacy-road-tax
 
 ## Growth — Doppl
 ### Claim

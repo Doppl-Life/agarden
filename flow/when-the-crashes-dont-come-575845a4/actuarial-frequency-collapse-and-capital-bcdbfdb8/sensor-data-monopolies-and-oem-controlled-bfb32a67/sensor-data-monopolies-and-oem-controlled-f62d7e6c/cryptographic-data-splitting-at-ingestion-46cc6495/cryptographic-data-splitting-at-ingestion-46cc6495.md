@@ -19,15 +19,15 @@ Autonomous sensor networks create data monopolies that allow manufacturers to di
 ## Discovery
 ### Finding 1
 
-NHTSA EDR data access logs (2018-2023) <span class="arrow">→ field: distributed-ledger</span>
+NHTSA EDR data access logs (2018-2023) → field: distributed-ledger
 
 ### Finding 2
 
-S&amp;P Global insurance claim resolution timelines <span class="arrow">→ field: distributed-ledger</span>
+S&amp;P Global insurance claim resolution timelines → field: distributed-ledger
 
 ### Finding 3
 
-Automotive cybersecurity standards ISO/SAE 21434 custody requirements <span class="arrow">→ field: distributed-ledger</span>
+Automotive cybersecurity standards ISO/SAE 21434 custody requirements → field: distributed-ledger
 
 ## Growth — Problem recovery
 ### Surface complaint

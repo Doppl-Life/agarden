@@ -23,15 +23,15 @@ Municipalities are reinventing telemetry infrastructure instead of leveraging ex
 ## Discovery
 ### Finding 1
 
-NHTSA latency comparison showing insurer dominance enables consolidation <span class="arrow">→ field: data-privacy</span>
+NHTSA latency comparison showing insurer dominance enables consolidation → field: data-privacy
 
 ### Finding 2
 
-KPMG audit findings highlighting commercial data dependency <span class="arrow">→ field: data-privacy</span>
+KPMG audit findings highlighting commercial data dependency → field: data-privacy
 
 ### Finding 3
 
-Emerging state telematics privacy bills restricting insurer data sharing <span class="arrow">→ field: data-privacy</span>
+Emerging state telematics privacy bills restricting insurer data sharing → field: data-privacy
 
 ## Growth — Doppl
 ### Claim

@@ -19,11 +19,11 @@ Usage-based autonomy pricing decouples mobility costs from vehicle ownership and
 ## Discovery
 ### Finding 1
 
-Basel III liquidity coverage ratio reports. <span class="arrow">→ field: treasury-management</span>
+Basel III liquidity coverage ratio reports. → field: treasury-management
 
 ### Finding 2
 
-JPMorgan treasury management case studies on dynamic duration. <span class="arrow">→ field: treasury-management</span>
+JPMorgan treasury management case studies on dynamic duration. → field: treasury-management
 
 ## Growth — Problem recovery
 ### Surface complaint

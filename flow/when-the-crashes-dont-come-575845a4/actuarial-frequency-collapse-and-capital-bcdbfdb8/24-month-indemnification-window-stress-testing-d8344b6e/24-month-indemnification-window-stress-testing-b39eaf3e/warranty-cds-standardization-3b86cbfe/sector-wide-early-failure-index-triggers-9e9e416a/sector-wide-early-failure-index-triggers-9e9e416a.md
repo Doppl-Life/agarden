@@ -23,15 +23,15 @@ Unhedged tail risk in early-life fleet deployments creates capital inefficiency 
 ## Discovery
 ### Finding 1
 
-CME Group agricultural index insurance settles in days versus months for individual crop claims <span class="arrow">→ field: agricultural-parametric</span>
+CME Group agricultural index insurance settles in days versus months for individual crop claims → field: agricultural-parametric
 
 ### Finding 2
 
-J.D. Power Vehicle Dependability Studies track early-life defects across 100,000 vehicles enabling robust indexing <span class="arrow">→ field: agricultural-parametric</span>
+J.D. Power Vehicle Dependability Studies track early-life defects across 100,000 vehicles enabling robust indexing → field: agricultural-parametric
 
 ### Finding 3
 
-ISO/TS 16949 quality management data supports industry-wide failure correlation modeling <span class="arrow">→ field: agricultural-parametric</span>
+ISO/TS 16949 quality management data supports industry-wide failure correlation modeling → field: agricultural-parametric
 
 ## Growth — Doppl
 ### Claim
