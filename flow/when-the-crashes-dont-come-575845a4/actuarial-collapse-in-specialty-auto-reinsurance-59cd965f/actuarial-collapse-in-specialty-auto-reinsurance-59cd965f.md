@@ -22,15 +22,15 @@ With Tesla robotaxi service live in parts of Texas, the case examines what happe
 
 ### Finding 1
 
-Texas commercial authorization requires state-backed risk pools for automated operators → field: financial-derivatives
+Texas commercial authorization requires state-backed risk pools for automated operators → [[financial-derivatives-7a1c4e90#^authorization-pool-mandate]]
 
 ### Finding 2
 
-CA DMV testing permits reveal liability gaps in deployment pipelines → field: financial-derivatives
+CA DMV testing permits reveal liability gaps in deployment pipelines → [[financial-derivatives-7a1c4e90#^authorization-pool-mandate]]
 
 ### Finding 3
 
-Global FSD Supervised rollout across 10+ jurisdictions compresses loss-data collection cycles → field: financial-derivatives
+Global FSD Supervised rollout across 10+ jurisdictions compresses loss-data collection cycles → [[financial-derivatives-7a1c4e90#^freq-trigger]]
 
 ## Growth — Problem recovery
 

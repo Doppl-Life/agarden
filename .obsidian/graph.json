@@ -11,28 +11,28 @@
       "query": "path:stock/",
       "color": {
         "a": 1,
-        "rgb": 16096779
+        "rgb": 1706571
       }
     },
     {
       "query": "[\"stage\":\"case_study\"]",
       "color": {
         "a": 1,
-        "rgb": 6583435
+        "rgb": 16766464
       }
     },
     {
       "query": "[\"stage\":\"problem_recovery\"]",
       "color": {
         "a": 1,
-        "rgb": 10980346
+        "rgb": 15204365
       }
     },
     {
       "query": "[\"stage\":\"doppl\"]",
       "color": {
         "a": 1,
-        "rgb": 3462041
+        "rgb": 4568032
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.06940470290987882,
+  "scale": 0.136544930556356,
   "close": false
 }

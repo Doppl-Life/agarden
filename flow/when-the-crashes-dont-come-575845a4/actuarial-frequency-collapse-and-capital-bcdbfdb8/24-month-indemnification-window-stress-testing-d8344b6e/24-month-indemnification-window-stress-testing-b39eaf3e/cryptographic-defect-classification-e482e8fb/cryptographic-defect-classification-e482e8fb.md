@@ -19,11 +19,11 @@ Mandating a 24-month liability transfer window forces OEMs, fleet operators, and
 ## Discovery
 ### Finding 1
 
-IBM Food Trust provenance logs show 95% reduction in dispute latency → field: distributed-ledger
+IBM Food Trust provenance logs show 95% reduction in dispute latency → [[distributed-ledger-5c8e0a93#^verifiable-defects]]
 
 ### Finding 2
 
-SAE J3161 automotive fault code standardization proves machine-readable defect mapping feasibility → field: distributed-ledger
+SAE J3161 automotive fault code standardization proves machine-readable defect mapping feasibility → [[distributed-ledger-5c8e0a93#^verifiable-defects]]
 
 ## Growth — Problem recovery
 ### Surface complaint

@@ -19,15 +19,15 @@ Automated fleet deployment collapses municipal revenue streams derived from cras
 ## Discovery
 ### Finding 1
 
-Detroit/Stockton bankruptcy precedents show liquidity gaps trigger downgrades within 18 months → field: municipal-bond
+Detroit/Stockton bankruptcy precedents show liquidity gaps trigger downgrades within 18 months → [[municipal-bond-3f2a1c08#^fine-revenue-cliff]]
 
 ### Finding 2
 
-Moody's AV mobility reports confirm RUC predictability metrics exceed traditional tax baselines → field: municipal-bond
+Moody's AV mobility reports confirm RUC predictability metrics exceed traditional tax baselines → [[municipal-bond-3f2a1c08#^transition-bonds]]
 
 ### Finding 3
 
-Federal Reserve municipal finance data shows transition bonds reduce default risk by 41% → field: municipal-bond
+Federal Reserve municipal finance data shows transition bonds reduce default risk by 41% → [[municipal-bond-3f2a1c08#^transition-bonds]]
 
 ## Growth — Problem recovery
 ### Surface complaint

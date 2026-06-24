@@ -19,15 +19,15 @@ Automated fleet deployment collapses municipal revenue streams derived from cras
 ## Discovery
 ### Finding 1
 
-2023-2024 municipal fine revenue drops &gt;40% in pilot cities with AV corridors → field: municipal-bond
+2023-2024 municipal fine revenue drops &gt;40% in pilot cities with AV corridors → [[municipal-bond-3f2a1c08#^fine-revenue-cliff]]
 
 ### Finding 2
 
-FHWA reports 18% faster pavement degradation per mile from heavy AV convoys → field: municipal-bond
+FHWA reports 18% faster pavement degradation per mile from heavy AV convoys → [[municipal-bond-3f2a1c08#^double-hit]]
 
 ### Finding 3
 
-Moody's mobility reports confirm RUC predictability metrics exceed 92% → field: municipal-bond
+Moody's mobility reports confirm RUC predictability metrics exceed 92% → [[municipal-bond-3f2a1c08#^transition-bonds]]
 
 ## Growth — Problem recovery
 ### Surface complaint

@@ -23,19 +23,19 @@ Structural mismatch between legacy risk pricing models and sudden crash volume d
 ## Discovery
 ### Finding 1
 
-NAIC claims processing time reductions correlated with telematics adoption → field: claims-adjustment
+NAIC claims processing time reductions correlated with telematics adoption → [[claims-adjustment-9d4b7e21#^adjuster-disintermediation]]
 
 ### Finding 2
 
-Personal injury law firm revenue reports showing declining collision case intake rates → field: claims-adjustment
+Personal injury law firm revenue reports showing declining collision case intake rates → [[claims-adjustment-9d4b7e21#^litigation-funnel]]
 
 ### Finding 3
 
-OEM direct settlement pilot programs announced in Texas and California rollout zones → field: claims-adjustment
+OEM direct settlement pilot programs announced in Texas and California rollout zones → [[claims-adjustment-9d4b7e21#^adjuster-disintermediation]]
 
 ### Finding 4
 
-Legal tech investment trends shifting from litigation support to automated dispute resolution → field: claims-adjustment
+Legal tech investment trends shifting from litigation support to automated dispute resolution → [[claims-adjustment-9d4b7e21#^litigation-funnel]]
 
 ## Growth — Doppl
 ### Claim
