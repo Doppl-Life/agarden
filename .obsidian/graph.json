@@ -18,21 +18,21 @@
       "query": "[\"stage\":\"case_study\"]",
       "color": {
         "a": 1,
-        "rgb": 16766464
+        "rgb": 15381256
       }
     },
     {
       "query": "[\"stage\":\"problem_recovery\"]",
       "color": {
         "a": 1,
-        "rgb": 15204365
+        "rgb": 16007006
       }
     },
     {
       "query": "[\"stage\":\"doppl\"]",
       "color": {
         "a": 1,
-        "rgb": 4568032
+        "rgb": 2282478
       }
     },
     {
