@@ -26,7 +26,7 @@ Each arrow is one pass of the engine: it generates candidate ideas, measures the
 | --- | --- |
 | `flow/` | The node graph as a nested lineage tree. Each node is one markdown file (`## Trace` · `## Discovery` · `## Growth` · `## Path`); children nest under the node they grew from. |
 | `stock/` | Durable domain memory. Admitted discoveries grouped by field — each a load-bearing fact with a synopsis, a grounding line, and a deep-linkable anchor. Stages read stock before searching outward again. |
-| `run-ledger.json` | The human-ratings ledger: per scored node, the `{rater, score}` entries that average into that node's `scores.human` / `scores.n`. Empty until people rate — the node files hold everything else. |
+| `ratings-ledger.json` | The human-ratings ledger: per scored node, the `{rater, score}` entries that average into that node's `scores.human` / `scores.n`. Empty until people rate — the node files hold everything else. |
 | `deprecated/` | Retired export dumps from earlier kernel versions. Kept for reference; not the source of truth. |
 
 ## Reading it

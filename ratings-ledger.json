@@ -17,7 +17,11 @@
   },
   {
     "node_id": "algorithmic-wear-staking-for-municipal-solvency-f494cbee",
-    "ratings": []
+    "ratings": [
+      { "rater_id": "mhabermas@doppl.dev", "score": 4, "rate_date": "2026-06-23T16:02:11.000Z" },
+      { "rater_id": "dkraft@doppl.dev", "score": 4, "rate_date": "2026-06-23T16:18:47.000Z" },
+      { "rater_id": "jrivera@doppl.dev", "score": 3, "rate_date": "2026-06-23T17:05:30.000Z" }
+    ]
   },
   {
     "node_id": "collateral-stripped-algorithmic-lines-827027ce",

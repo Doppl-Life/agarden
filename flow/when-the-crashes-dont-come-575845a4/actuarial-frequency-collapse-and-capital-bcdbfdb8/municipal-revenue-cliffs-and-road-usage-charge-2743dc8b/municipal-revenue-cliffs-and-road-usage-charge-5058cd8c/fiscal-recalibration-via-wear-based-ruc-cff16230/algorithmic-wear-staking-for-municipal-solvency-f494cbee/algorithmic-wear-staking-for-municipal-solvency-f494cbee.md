@@ -4,7 +4,7 @@ stage: doppl
 kernel: prime
 temporal: false
 next: null
-scores: { judge: 2, human: null, n: 0 }
+scores: { judge: 2, human: 3.7, n: 3 }
 doppelgangers: 0
 ---
 

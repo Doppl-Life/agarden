@@ -178,6 +178,7 @@
   },
   "active": "ec5119414186c390",
   "lastOpenFiles": [
+    "ratings-ledger.json",
     "README.md",
     "stock/distributed-ledger-5c8e0a93.md",
     "stock/claims-adjustment-9d4b7e21.md",
@@ -207,7 +208,6 @@
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/warranty-cds-standardization-3b86cbfe/telemetry-triggered-indemnification-protocols-04dc72a5/telemetry-triggered-indemnification-protocols-04dc72a5.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/warranty-cds-standardization-3b86cbfe/sector-wide-early-failure-index-triggers-9e9e416a/sector-wide-early-failure-index-triggers-9e9e416a.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/24-month-indemnification-window-stress-testing-d8344b6e/24-month-indemnification-window-stress-testing-b39eaf3e/warranty-cds-standardization-3b86cbfe/preventative-liability-forward-markets-cc914745/preventative-liability-forward-markets-cc914745.md",
-    "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/sensor-data-monopolies-and-oem-controlled-bfb32a67/sensor-data-monopolies-and-oem-controlled-f62d7e6c/neutral-evidentiary-escrow-with-conditional-key-108c5210/neutral-evidentiary-escrow-with-conditional-key-108c5210.md",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/liability-inversion-protocol-f98a60a8",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/hydraulic-pavement-taxonomy-247488b8",
     "flow/when-the-crashes-dont-come-575845a4/actuarial-frequency-collapse-and-capital-bcdbfdb8/municipal-revenue-cliffs-and-road-usage-charge-2743dc8b/municipal-revenue-cliffs-and-road-usage-charge-5058cd8c/real-time-infrastructure-depreciation-accounting-204f09e3/escrow-first-infrastructure-financing-05c1a999",
