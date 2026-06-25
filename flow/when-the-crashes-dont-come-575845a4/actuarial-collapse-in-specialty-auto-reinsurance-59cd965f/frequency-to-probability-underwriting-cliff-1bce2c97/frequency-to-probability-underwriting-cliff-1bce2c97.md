@@ -6,8 +6,8 @@ temporal: false
 next: null
 scores:
   judge: 2
-  human: 2
-  'n': 1
+  human: 0
+  'n': 2
 doppelgangers: 0
 ---
 # Frequency-to-Probability Underwriting Cliff
