@@ -18,9 +18,21 @@
   {
     "node_id": "algorithmic-wear-staking-for-municipal-solvency-f494cbee",
     "ratings": [
-      { "rater_id": "mhabermas@doppl.dev", "score": 4, "rate_date": "2026-06-23T16:02:11.000Z" },
-      { "rater_id": "dkraft@doppl.dev", "score": 4, "rate_date": "2026-06-23T16:18:47.000Z" },
-      { "rater_id": "jrivera@doppl.dev", "score": 3, "rate_date": "2026-06-23T17:05:30.000Z" }
+      {
+        "rater_id": "mhabermas@doppl.dev",
+        "score": 4,
+        "rate_date": "2026-06-23T16:02:11.000Z"
+      },
+      {
+        "rater_id": "dkraft@doppl.dev",
+        "score": 4,
+        "rate_date": "2026-06-23T16:18:47.000Z"
+      },
+      {
+        "rater_id": "jrivera@doppl.dev",
+        "score": 3,
+        "rate_date": "2026-06-23T17:05:30.000Z"
+      }
     ]
   },
   {
@@ -57,7 +69,13 @@
   },
   {
     "node_id": "frequency-to-probability-underwriting-cliff-1bce2c97",
-    "ratings": []
+    "ratings": [
+      {
+        "rater_id": "dalton.dinderman@challenger.gauntletai.com",
+        "score": 2,
+        "rate_date": "2026-06-25T21:48:23.525Z"
+      }
+    ]
   },
   {
     "node_id": "hydraulic-pavement-taxonomy-247488b8",

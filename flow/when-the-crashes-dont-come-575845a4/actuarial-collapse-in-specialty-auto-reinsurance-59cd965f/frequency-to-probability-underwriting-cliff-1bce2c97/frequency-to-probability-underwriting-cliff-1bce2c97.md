@@ -4,10 +4,12 @@ stage: doppl
 kernel: prime
 temporal: false
 next: null
-scores: { judge: 2, human: null, n: 0 }
+scores:
+  judge: 2
+  human: 2
+  'n': 1
 doppelgangers: 0
 ---
-
 # Frequency-to-Probability Underwriting Cliff
 
 prev_id: [[actuarial-collapse-in-specialty-auto-reinsurance-59cd965f]]
