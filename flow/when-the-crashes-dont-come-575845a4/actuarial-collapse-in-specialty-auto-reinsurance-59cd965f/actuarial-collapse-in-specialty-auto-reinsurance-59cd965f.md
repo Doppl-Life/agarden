@@ -4,10 +4,12 @@ stage: problem_recovery
 kernel: prime
 temporal: false
 next: doppl
-scores: { judge: 2, human: null, n: 0 }
+scores:
+  judge: 2
+  human: 5
+  'n': 1
 doppelgangers: 0
 ---
-
 # Actuarial Collapse in Specialty Auto Reinsurance
 
 prev_id: [[when-the-crashes-dont-come-575845a4]]

@@ -5,7 +5,13 @@
   },
   {
     "node_id": "actuarial-collapse-in-specialty-auto-reinsurance-59cd965f",
-    "ratings": []
+    "ratings": [
+      {
+        "rater_id": "valeriia.muradian@challenger.gauntletai.com",
+        "score": 5,
+        "rate_date": "2026-06-25T22:52:53.194Z"
+      }
+    ]
   },
   {
     "node_id": "actuarial-frequency-collapse-and-capital-bcdbfdb8",
