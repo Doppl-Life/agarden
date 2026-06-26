@@ -17,4 +17,4 @@ Domain memory admitted by the judge from discovery.
 ### Insider-threat defense fails upstream at identification, before any detection pipeline can engage.
 
 Security surveys treat identification and detection as distinct challenge layers. Until an actor is identified and attributed, behavioral monitoring and type-matched countermeasures never activate—so an accurate but anonymous insider remains outside every institutional response channel by definition.
-_Grounded: Saxena 2020 (MDPI Electronics); survey explicitly separates identification from detection as core unresolved challenges._
+_Grounded: Saxena 2020 (MDPI Electronics); survey explicitly separates identification from detection as core unresolved challenges._ ^identification-detection-gap
