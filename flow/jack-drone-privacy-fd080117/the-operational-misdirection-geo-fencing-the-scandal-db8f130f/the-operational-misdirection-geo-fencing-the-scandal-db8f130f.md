@@ -4,10 +4,12 @@ stage: problem_recovery
 kernel: prime
 temporal: true
 next: doppl
-scores: { judge: 2, human: null, n: 0 }
+scores:
+  judge: 2
+  human: 7
+  'n': 1
 doppelgangers: 0
 ---
-
 # The Operational Misdirection (Geo-Fencing the Scandal)
 
 prev_id: [[jack-drone-privacy-fd080117]]
