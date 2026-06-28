@@ -1,11 +1,11 @@
 ---
 id: jack-drone-privacy-fd080117
 stage: case_study
-name: "The Rock Star's Drone Problem"
+name: "The Rock Star Drone Problem"
 next: problem_recovery
 ---
 
-# The Rock Star's Drone Problem
+# The Rock Star Drone Problem
 
 prev_id: null
 
