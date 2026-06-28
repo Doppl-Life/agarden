@@ -138,7 +138,13 @@
   },
   {
     "node_id": "open-telemetry-compacts-6bc0961c",
-    "ratings": []
+    "ratings": [
+      {
+        "rater_id": "dalton.dinderman@challenger.gauntletai.com",
+        "score": 2,
+        "rate_date": "2026-06-28T15:52:20.685Z"
+      }
+    ]
   },
   {
     "node_id": "parametric-roadway-risk-underwriting-f69e7279",

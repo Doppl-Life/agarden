@@ -4,10 +4,12 @@ stage: doppl
 kernel: prime
 temporal: false
 next: null
-scores: { judge: 2, human: null, n: 0 }
+scores:
+  judge: 2
+  human: 2
+  'n': 1
 doppelgangers: 0
 ---
-
 # Open Telemetry Compacts
 
 prev_id: [[insurance-telematics-verification-layer-2c58dfef]]
